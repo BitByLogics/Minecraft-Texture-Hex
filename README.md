@@ -2,7 +2,7 @@
 
 JSON files mapping Minecraft texture files and bukkit material enums to their **dominant hex colors**. Each key is the **texture name/enum name** (without file extension), and each value is a **hex color code** representing the primary color of that texture.
 
-This file is useful for:
+These files are useful for:
 
 - Resource pack development  
 - Mods or plugins that need texture-based color data  
