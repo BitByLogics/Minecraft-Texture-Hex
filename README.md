@@ -10,7 +10,7 @@ This file is useful for:
 - Generating color palettes for UIs or maps  
 
 > [!CAUTION]
-> This mapping is strictly mapped to the texture file name, so pulling using the Material enum may give incorrect results.
+> If retrieving colors via the bukkit material enum, use material-colors.json!
 
 ## Example
 
