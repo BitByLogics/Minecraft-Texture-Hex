@@ -10,7 +10,7 @@ This file is useful for:
 - Generating color palettes for UIs or maps  
 
 > [!CAUTION]
-> If retrieving colors via the bukkit material enum, use material-colors.json!
+> If retrieving colors via the bukkit material enum name, use material-colors.json!
 
 ## Example
 
